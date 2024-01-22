@@ -4,6 +4,7 @@ import Work3 from '../../assets/images/work-3.svg'
 import Work4 from '../../assets/images/work-4.svg'
 import Work5 from '../../assets/images/work-5.svg'
 import Work6 from '../../assets/images/work-6.svg'
+import portfolio from '../../assets/images/portfolio.jpg'
 
 const Menu = [
     {
@@ -44,7 +45,13 @@ const Menu = [
       image: Work6,
       title: "Game Store App Concept",
       category: "Art",
-    },
+    },{
+      id:7,
+      image:portfolio,
+      title:"Old portfolio website",
+      category:"Branding",
+      link:'https://mrd-portfolio.netlify.app/'      
+    }
   ];
 
 export default Menu;

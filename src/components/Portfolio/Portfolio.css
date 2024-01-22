@@ -22,6 +22,7 @@
     overflow: hidden;
     border-radius: var(--border-radius);
     box-shadow: var(--shadow);
+    min-height: max-content;
 }
 .work__mask{
     background: #6c6ce5;
