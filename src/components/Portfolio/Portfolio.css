@@ -36,13 +36,9 @@
     margin: 10px 0;
 }
 
-.work__card:hover{
-    transition: all 1s ease;
-    color: white;
-    background: var(--first-color);
-}
 .work__card:hover .work__category, .work__card:hover .work__title{
-    color:white;
+    color:var(--first-color);
+    transition: all 0.5s ease;
 }
 
 @media screen and (max-width:1024px) {
