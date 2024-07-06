@@ -4,7 +4,7 @@ const Data = [
       id: 1,
       category: "education",
       icon: "icon-graduation",
-      year: "2020 - present",
+      year: "2020 - 2024",
       title: "Bachelor's Degree",
       desc: "Faculty of Intellectual Systems and Computer Technologies of Samarkand State University named after Sharof Rashidov",
     },
