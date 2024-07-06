@@ -38,6 +38,9 @@
     /* height: 200px; */
     resize: none;
 }
+.btn{
+    cursor:pointer;
+}
 
 
 @media screen and (max-width:1024px) {
